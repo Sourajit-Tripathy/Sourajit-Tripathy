@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Sourajit Tripathy
+
 ![Data Analytics](https://cdn.dribbble.com/users/1284365/screenshots/6288565/analytics_dashboard.gif)
 
 **Data Analytics | SQL | Python | Excel | Power BI**  
@@ -22,16 +23,17 @@ I’m passionate about turning data into insights. I build dashboards, perform d
 
 ## 📂 Featured Projects
 
-### 1️⃣ [SQL-DATA-ANALYTICS](https://github.com/Sourajit-Tripathy/SQL-DATA-ANALYTICS)  
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue) ![Python](https://img.shields.io/badge/Python-Pandas-yellow)  
+### 1️⃣ [SQL-DATA-ANALYTICS](https://github.com/Sourajit-Tripathy/SQL-DATA-ANALYTICS)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue) ![Python](https://img.shields.io/badge/Python-Pandas-yellow)
 Structured analytics queries & dashboards using SQL.  
 ![Project GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-### 2️⃣ [Python-Data-Analytics](https://github.com/Sourajit-Tripathy/Python-Data-Analytics)  
-![Python](https://img.shields.io/badge/Python-Data-yellow) ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-red)  
+### 2️⃣ [Python-Data-Analytics](https://github.com/Sourajit-Tripathy/Python-Data-Analytics)
+![Python](https://img.shields.io/badge/Python-Data-yellow) ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-red)
 Data cleaning, transformation, and visualization using Python.  
+![Python Project GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
-### 3️⃣ ### ### 🌟 Featured Project: [Business Insight 360 Dashboard](https://lnkd.in/g4mCGQyn)
+### 3️⃣ 🌟 Featured Project: [Business Insight 360 Dashboard](https://lnkd.in/g4mCGQyn)
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Project-blue?style=flat-square&logo=linkedin)  
 
 This is my **flagship analytics project**, showcasing a **360° business insights dashboard** combining SQL, Python, Excel, and Power BI.  
