@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Sourajit Tripathy
-![Data Analytics GIF](https://media.giphy.com/media/26xBJuZgIo0dN7Oxq/giphy.gif)
+![Data Analytics](https://cdn.dribbble.com/users/1284365/screenshots/6288565/analytics_dashboard.gif)
+
+**Data Analytics | SQL | Python | Excel | Power BI**  
+I turn raw data into actionable insights.
+
+
 **Data Analytics | SQL | Python | Excel | Power BI**  
 I turn raw data into meaningful insights, dashboards, and reports.
 
@@ -26,23 +31,29 @@ Structured analytics queries & dashboards using SQL.
 ![Python](https://img.shields.io/badge/Python-Data-yellow) ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib-red)  
 Data cleaning, transformation, and visualization using Python.  
 
-### 3️⃣ [PowerBI-Sales-Dashboard](https://github.com/Sourajit-Tripathy/PowerBI-Sales-Dashboard)  
-![Power BI](https://img.shields.io/badge/PowerBI-Expert-green)  
-Interactive dashboards showing KPIs and trends.  
+### 3️⃣ ### ### 🌟 Featured Project: [Business Insight 360 Dashboard](https://lnkd.in/g4mCGQyn)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Project-blue?style=flat-square&logo=linkedin)  
+
+This is my **flagship analytics project**, showcasing a **360° business insights dashboard** combining SQL, Python, Excel, and Power BI.  
+It highlights KPIs, sales trends, and actionable insights in a visually engaging format.
+
+![Business Insight 360](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 ---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourajit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sourajit-tripathy)
-[![Email](https://img.shields.io/badge/Email-sourajit%40example.com-red?style=flat-square&logo=gmail)](mailto:sourajit@example.com)
+[![Email](https://img.shields.io/badge/Email-tripathyjeet111@gmail.com-red?style=flat-square&logo=gmail)](mailto:sourajit@example.com)
 
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/sourajit-tripathy](https://www.linkedin.com/in/sourajit-tripathy)  
-- Email: sourajit@example.com  
+- Email: tripathyjeet111@gmail.com  
 
 ---
 
 ## ⚡ GitHub Stats
 ![Sourajit GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourajit-Tripathy&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourajit-Tripathy&layout=compact&theme=radical)
+
