@@ -21,8 +21,8 @@ I’m passionate about turning data into insights. I build dashboards, automate 
 - Tools used: SQL, Python, Excel, Power BI  
 - Live dashboard link: [View Project](https://lnkd.in/g4mCGQyn)  
 
-### 2️⃣ [SQL-DATA-ANALYTICS](https://github.com/Sourajit-Tripathy/SQL-DATA-ANALYTICS)
-- Structured analytics queries & dashboards using SQL.  
+### 2️⃣ [AtliQ-Ad-hoc-Analysis](https://github.com/Sourajit-Tripathy/AtliQ-Adhoc-SQL-Analysis)
+- Structured analytics queries using Advanced SQL.  
 - Skills: SQL, Data Analysis, Reporting  
 
 ### 3️⃣ [Python-Data-Analytics](https://github.com/Sourajit-Tripathy/Python-Data-Analytics)
