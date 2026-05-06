@@ -61,8 +61,8 @@ From advanced SQL analysis to designing end-to-end data pipelines, I focus on de
 
 ---
 
-### 🔹 [Python Data Analytics](https://github.com/Sourajit-Tripathy/Python-Data-Analytics)
-- Data cleaning, transformation, visualization  
+### 🔹 [OpsPulse: Weather Data Pipline](https://github.com/Sourajit-Tripathy/OpsPulse)
+- Data cleaning, transformation, visualization , API, PyTests
 - Automated analysis workflows  
 
 ---
